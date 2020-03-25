@@ -6,6 +6,17 @@ effective-microprocessor
 ![License](https://img.shields.io/github/license/Arkh42/effective-microprocessor)
 
 
+The aim of this repository consists in providing tutorials about _microprocessors_.
+The _effectiveness_ is the main concern for all topics and pieces of code that are given.
+
+It will cover several topics, including:
+- microprocessors' architectures;
+- communication (RS232, I2C...);
+- sensors.
+
+Both theoretical explanations and practical examples will be given.
+
+
 
 Organization of the repository
 ------------------------------
