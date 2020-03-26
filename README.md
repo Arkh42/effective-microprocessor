@@ -22,6 +22,14 @@ Organization of the repository
 ------------------------------
 
 
+### Tree of the repository
+
+At the root-level, the main folders are:
+- 'projects', which presents complete projects based on the tutorials;
+- 'tutorials', which is dedicated to the subjects necessary to understand and program microprocessors.
+
+
+
 ### Statistics
 
 ![Language counts](https://img.shields.io/github/languages/count/Arkh42/effective-microprocessor)
